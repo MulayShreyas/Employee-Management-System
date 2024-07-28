@@ -57,20 +57,20 @@ git clone https://github.com/yourusername/EmployeeManagementSystem.git
 ## Usage
 
 1) ### Launch the Application:
-        Execute the Main.java file to open the Employee Management System.
+    Execute the Main.java file to open the Employee Management System.
 2) ### Add Employee:
-        Navigate to the "Add Employee" section.
-        Fill in the employee details and click "Submit".
+   Navigate to the "Add Employee" section.
+   Fill in the employee details and click "Submit".
 3) ### Edit Employee:
-        Navigate to the "Edit Employee" section.
-        Search for the employee and update the necessary details.
+   Navigate to the "Edit Employee" section.
+   Search for the employee and update the necessary details.
 4) ### Delete Employee:
-        Navigate to the "Delete Employee" section.
-        Search for the employee and click "Delete".
+   Navigate to the "Delete Employee" section.
+   Search for the employee and click "Delete".
 5) ### Search Employee:
-        Use the search functionality to find employees by name, department, or ID.
+   Use the search functionality to find employees by name, department, or ID.
 6) ### Display Employees:
-        View all employee records in a table format.
+   View all employee records in a table format.
 
 ## Screenshots
 
