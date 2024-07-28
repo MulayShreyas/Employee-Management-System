@@ -77,7 +77,7 @@ git clone https://github.com/yourusername/EmployeeManagementSystem.git
   1)  Add Employee Screen:
 
     
-   2) Employee List Screen:
+  2) Employee List Screen:
 
 
 
