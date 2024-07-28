@@ -6,24 +6,24 @@ The Employee Management System is a desktop application developed in Java using 
 
 ## Features
 
- 1) ### Add Employee: Add new employee records to the database.
- 2) ### Edit Employee: Update existing employee details.
- 3) ### Delete Employee: Remove employee records from the database.
- 4) ### Search Employee: Find employees by various criteria.
- 5) ### Display Employees: View a list of all employees in a table format.
- 6) ### Date Picker: Utilize JCalendar for selecting dates.
- 7) ### Database Connectivity: Connect to MySQL database using JDBC.
+ 1) **Add Employee**: Add new employee records to the database.
+ 2) **Edit Employee**: Update existing employee details.
+ 3) **Delete Employee**: Remove employee records from the database.
+ 4) **Search Employee**: Find employees by various criteria.
+ 5) **Display Employees**: View a list of all employees in a table format.
+ 6) **Date Picker**: Utilize JCalendar for selecting dates.
+ 7) **Database Connectivity**: Connect to MySQL database using JDBC.
 
 ## Technologies Used:
 
-1) ### Java Swing: For creating the graphical user interface.
-2) ### Java AWT: For event handling and additional GUI components.
-3) ### JCalendar: For date selection.
-4) ### JDBC: For database connectivity.
-5) ### rs2xml: For converting ResultSet to TableModel.
-6) ### MySQL Database: For storing employee data.
-7) ### JConnector: MySQL Connector/J for connecting Java applications with MySQL database.
-8) ### JRE: Java Runtime Environment for running the application.
+1) **Java Swing**: For creating the graphical user interface.
+2) **Java AWT**: For event handling and additional GUI components.
+3) **JCalendar**: For date selection.
+4) **JDBC**: For database connectivity.
+5) **rs2xml**: For converting ResultSet to TableModel.
+6) **MySQL Database**: For storing employee data.
+7) **JConnector**: MySQL Connector/J for connecting Java applications with MySQL database.
+8) **JRE**: Java Runtime Environment for running the application.
 
 ## Installation and Setup
 
