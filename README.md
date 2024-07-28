@@ -74,12 +74,18 @@ git clone https://github.com/yourusername/EmployeeManagementSystem.git
 
 ## Screenshots
 
-  1)  Add Employee Screen:
+   ![Screenshot from 2024-07-28 13-01-40](https://github.com/user-attachments/assets/43acbc77-f5d9-49ee-8e9c-e1f76b36b346)
+   ![Screenshot from 2024-07-28 13-01-49](https://github.com/user-attachments/assets/74298293-930d-4c47-8213-0ee1d1dc600b)
+   ![Screenshot from 2024-07-28 13-02-01](https://github.com/user-attachments/assets/dd94378a-b9b6-4ffc-a135-688ac6d5aa59)
+   ![Screenshot from 2024-07-28 13-02-41](https://github.com/user-attachments/assets/2f09cf30-df37-48d5-a45a-f2e853d74301)
+   ![Screenshot from 2024-07-28 13-04-59](https://github.com/user-attachments/assets/06ade747-c33f-40ba-a509-2b246a56c708)
+   ![Screenshot from 2024-07-28 13-05-13](https://github.com/user-attachments/assets/489ece33-dc45-410d-8a73-85cff059b590)
+   ![Screenshot from 2024-07-28 13-05-29](https://github.com/user-attachments/assets/9e0c2231-f6ea-4217-8ddf-e14f897bf528)
+   ![Screenshot from 2024-07-28 13-05-54](https://github.com/user-attachments/assets/97a360f9-12db-49f0-b5b9-1d22cf644caf)
+   ![Screenshot from 2024-07-28 13-06-42](https://github.com/user-attachments/assets/82988db0-72a0-4316-b752-af367b103128)
+   ![Screenshot from 2024-07-28 13-06-45](https://github.com/user-attachments/assets/f4e219ae-82a0-46bf-a8a7-5215aed597ad)
 
     
-  2) Employee List Screen:
-
-
 
 ## License
 
