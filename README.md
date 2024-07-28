@@ -74,10 +74,10 @@ git clone https://github.com/yourusername/EmployeeManagementSystem.git
 
 ## Screenshots
 
-    ### Add Employee Screen:
+  1)  Add Employee Screen:
 
     
-    ### Employee List Screen:
+   2) Employee List Screen:
 
 
 
