@@ -4,6 +4,11 @@
 
 The Employee Management System is a desktop application developed in Java using Swing and AWT for the graphical user interface. It uses MySQL as the database, connected via JDBC. The application allows users to manage employee data effectively.
 
+## Requirement 
+1) MySQL-Connector-j JAR (Java ARchive)
+2) rs2xml JAR
+3) jCalender JAR
+
 ## Features
 
  1) **Add Employee**: Add new employee records to the database.
