@@ -31,22 +31,19 @@ The Employee Management System is a desktop application developed in Java using 
 8) **JRE**: Java Runtime Environment for running the application.
 
 ## Installation and Setup
-
-    Clone the repository:
-
+ Clone the repository:
     bash
-
-git clone https://github.com/yourusername/EmployeeManagementSystem.git
+   
+    git clone https://github.com/yourusername/EmployeeManagementSystem.git
 
 ## Setup the database:
 
-    Install MySQL and create a database named employee_management.
-    Import the SQL script provided in the db folder to create the necessary tables.
+   Install MySQL and create a database named employee_management.
+    
 
 ## Configure Database Connection:
 
-    Open the src/db/DatabaseConnection.java file.
-    Update the database URL, username, and password to match your MySQL configuration.
+   Update the database URL, username, and password to match your MySQL configuration.
 
 ## Java
 
@@ -54,10 +51,10 @@ git clone https://github.com/yourusername/EmployeeManagementSystem.git
     String username = "your_username";
     String password = "your_password";
 
-    Build and Run the Application:
-        Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
-        Build the project to resolve dependencies.
-        Run the Main.java file to start the application.
+   Build and Run the Application:
+        i) Open the project in your preferred Java IDE (e.g., IntelliJ IDEA, Eclipse).
+        ii) Build the project to resolve dependencies.
+        iii) Run the Main.java file to start the application.
 
 ## Usage
 
