@@ -92,6 +92,7 @@ The Employee Management System is a desktop application developed in Java using 
 ## License
 
 This project is licensed under the General Public License (GNU). See the LICENSE file for details.
-Acknowledgements
+
+## Acknowledgements
 
 Thanks to the developers of Java, MySQL, and all the libraries used in this project.
